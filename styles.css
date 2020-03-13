@@ -1,0 +1,17 @@
+ 
+  main {
+    padding: 25px 75px 75px 100px;
+    margin: 25px 150px 75px;
+    background-color: aquamarine;
+    font-size: 1.2em;
+  }
+
+  .bigBold {
+    font-size: xx-large;
+    font-weight: bolder;
+  }
+
+  #title {
+    text-align: center;
+    font-size: xx-large;
+  }
